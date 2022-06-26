@@ -14,13 +14,13 @@ permalink: /about/
 <td align="left"><p>
 <br />
 <br />
-    <td>Rutgers University, New Jersey</td>
+>Rutgers University, New Jersey
 <br />
-    <td>Computer Science Department</td>
+Computer Science Department
 <br />
 <br />
 <a href="https://github.com/barlowtwin">GitHub</a>
 <br />
 <a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en">Google Scholar</a>
-</td></tr></table>
+
 
