@@ -19,7 +19,7 @@ Rutgers University, New Jersey
 Computer Science Department 
 <br />
 <br />
-[GitHub](https://github.com/barlowtwin)
+(GitHub)[https://github.com/barlowtwin]
 <br />
 [Google Scholar]("https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en")
 </td></tr></table>
