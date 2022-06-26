@@ -4,4 +4,16 @@ title: About
 permalink: /about/
 ---
 
-![dfsfsdfs](https://i.imgur.com/2guZweZ.jpg =155x137) HI I am Sarang 
+<table class="imgtable"><tr><td>
+<img src="https://i.imgur.com/2guZweZ.jpg" alt="alt text" width="700px" height="250px" />&nbsp;</td>
+<td align="left"><p> 
+<br />
+<br />
+Rutgers University, New Jersey 
+<br />
+Computer Science Department
+<br />
+<br />
+<a href="https://github.com/barlowtwin" target=&ldquo;blank&rdquo;>Github</a>
+<a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en" target=&ldquo;blank&rdquo;>Google Scholar</a>  
+</td></tr></table>
