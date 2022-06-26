@@ -14,9 +14,9 @@ permalink: /about/
 <td align="left"><p>
 <br />
 <br />
-Rutgers University, New Jersey (<a href="https://www.rutgers.edu/" target=&ldquo;blank&rdquo;>SAS</a>)
+Rutgers University, New Jersey 
 <br />
-Computer Science Department (<a href="https://www.cs.rutgers.edu/" target=&ldquo;blank&rdquo;>CS</a>)
+Computer Science Department 
 <br />
 <br />
 <a href="https://github.com/barlowtwin" target=&ldquo;blank&rdquo;>GitHub</a> 
