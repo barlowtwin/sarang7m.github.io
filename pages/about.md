@@ -15,9 +15,7 @@ Computer Science Department
 <br />
   email : sarang7m@gmail.com <br />
   
-<a href="https://github.com/barlowtwin">GitHub</a>
-
-[GitHub](https://github.com/barlowtwin)
-<br />
-[Google Scholar](https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en)
+<a href="https://github.com/barlowtwin">GitHub</a> <br />
+<a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en">Google Scholar </a> <br />
+  
 </td></tr></table>
