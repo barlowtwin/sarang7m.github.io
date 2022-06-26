@@ -1,7 +1,7 @@
 
 
 <table class="imgtable"><tr><td>
-<img src="https://i.imgur.com/2guZweZ.jpg" alt="alt text" width="275px" height="310px" />&nbsp;</td>
+<img src="https://i.imgur.com/2guZweZ.jpg" alt="alt text" width="275px" height="310px" />&nbsp;</td><p>Sarang Mahajan
 <td align="left"> 
 <br />
 Rutgers University, New Jersey 
