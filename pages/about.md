@@ -15,5 +15,6 @@ Computer Science Department
 <br />
 <br />
 <a href="https://github.com/barlowtwin" target=&ldquo;blank&rdquo;>Github</a>
+<br />
 <a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en" target=&ldquo;blank&rdquo;>Google Scholar</a>  
 </td></tr></table>
