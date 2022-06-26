@@ -13,9 +13,12 @@ Rutgers University, New Jersey
 Computer Science Department
 <br />
 <br />
-<a href="">email : sarang7m@gmail.com</a> <br />
+email : sarang7m@gmail.com
+<br />
+<br />
   
 <a href="https://github.com/barlowtwin">GitHub</a> <br />
 <a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en">Google Scholar </a> <br />
   
-
+  </td></tr>
+</table>
