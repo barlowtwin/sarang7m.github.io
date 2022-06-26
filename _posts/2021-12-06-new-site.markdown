@@ -7,4 +7,8 @@ categories: [blog]
 tags: [Getting Start]
 ---
 
+
+
+![dfsfsdfs](https://i.imgur.com/2guZweZ.jpg =310x275) HI I am Sarang 
+
 This is my new website!!! This is just going to be a basic landing page for when ill need it. I'll post projects, links, or whatever else I want. The theme im using is Jekyll-paper which can be found [here](https://github.com/ghosind/Jekyll-Paper-Github)
