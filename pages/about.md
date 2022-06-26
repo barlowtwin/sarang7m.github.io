@@ -14,7 +14,7 @@ permalink: /about/
 <td align="left"><p>
 <br />
 <br />
->Rutgers University, New Jersey
+Rutgers University, New Jersey
 <br />
 Computer Science Department
 <br />
