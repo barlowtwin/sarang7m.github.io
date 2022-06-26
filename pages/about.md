@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <table class="imgtable"><tr><td>
-<img src="https://i.imgur.com/2guZweZ.jpg" alt="alt text" width="350px" height="250px" />&nbsp;</td>
+<img src="https://i.imgur.com/2guZweZ.jpg" alt="alt text" width="275px" height="310px" />&nbsp;</td>
 <td align="left"><p> 
 <br />
 <br />
