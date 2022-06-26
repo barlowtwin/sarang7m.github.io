@@ -17,8 +17,9 @@ email : sarang7m@gmail.com
 <br />
 <br />
   
-<a href="https://github.com/barlowtwin">GitHub</a> <br />
-<a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en">Google Scholar </a> <br />
+<a href="https://github.com/barlowtwin">GitHub</a> 
+  <br />
+<a href="https://scholar.google.com/citations?user=vvJ-sZQAAAAJ&hl=en">Google Scholar </a> 
   
-  </td></tr>
+</td></tr>
 </table>
