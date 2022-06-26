@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 
 <table class="imgtable"><tr><td>
