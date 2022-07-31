@@ -37,14 +37,12 @@ Computer Science Department
   
  <h1> Bio </h1>
 
-  
  <p>I am a recent graduate from the Computer Science Department at Rutgers University. I completed Masters in 2021 Spring with concentration in Machine Learning and Statistics. Prior to that I was memeber of PICT Research Lab during bachelors wokring on Medical Image Analysis.</p>
  
   <br>
    <br>
    
 <h1> Achievements </h1>
-
 
 <ul>
   <li>First placed team in Kaggle's Pneumonia Detection Challenge, 2019</li>
