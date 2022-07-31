@@ -8,27 +8,27 @@ I try to reproduce results from papers I find interesting.
 
 
 <h1> Reinforcement Learning </h1>
--Vanilla Policy Gradient </br>
--DQN </br>
--Double DQn
--TRPO
--PPO
--PlaNet
--Dreamer
+Vanilla Policy Gradient </br>
+QN </br>
+Double DQn
+TRPO
+PPO
+PlaNet
+Dreamer
 
 
 <h1> Self Supervised Learning </h1>
 
--Contrastive Supervised Learning
--Simclr
--Barlow Twins
+Contrastive Supervised Learning
+Simclr
+Barlow Twins
 
 
 
 <h1> Neural Networks </h1>
--MAML
--VAE
--Beta VAE
--DeepLab-V3
--U-Net
+MAML
+VAE
+Beta VAE
+DeepLab-V3
+U-Net
 
