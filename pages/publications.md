@@ -9,8 +9,6 @@ Mahajan, S., Tambe, R., Shah, U., Agrawal, M., & Garware, B.<br>
 CoDS Comad, 2019 [[**link**]](https://dl.acm.org/doi/abs/10.1145/3297001.3297019)
 
 <br>
-<br>
-
 
 
 **Towards Designing an Automated Classification of Lymphoma subtypes using Deep Neural Networks.** <br> 
