@@ -9,26 +9,26 @@ I try to reproduce results from papers I find interesting.
 
 <h1> Reinforcement Learning </h1>
 Vanilla Policy Gradient </br>
-QN </br>
-Double DQn
-TRPO
-PPO
-PlaNet
-Dreamer
+DQN </br>
+Double DQn </br>
+TRPO </br>
+PPO </br>
+PlaNet </br>
+Dreamer </br>
 
 
 <h1> Self Supervised Learning </h1>
 
-Contrastive Supervised Learning
-Simclr
-Barlow Twins
+Contrastive Supervised Learning </br>
+Simclr </br>
+Barlow Twins </br>
 
 
 
 <h1> Neural Networks </h1>
-MAML
-VAE
-Beta VAE
-DeepLab-V3
-U-Net
+MAML </br>
+VAE </br>
+Beta VAE </br>
+DeepLab-V3 </br>
+U-Net </br>
 
