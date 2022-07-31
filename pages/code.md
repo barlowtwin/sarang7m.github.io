@@ -8,8 +8,8 @@ I try to reproduce results from papers I find interesting.
 
 
 
--Vanilla Policy Gradient
--DQN
+-Vanilla Policy Gradient </br>
+-DQN </br>
 -Double DQn
 -TRPO
 -PPO
