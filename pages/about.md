@@ -26,7 +26,7 @@ Computer Science Department
 <h1> Research </h1>
 
 
-<p> <b>Reinforcement Learning</b> : I like to develop intelligent agents using policy gradients, world models, representation learning with reinforcement learning and goal-conditioned tasks. I also like o work with meta learning and multi task learning.<p>
+<p> <b>Reinforcement Learning</b> : I like to develop intelligent agents using policy gradients, world models, representation learning with reinforcement learning and goal-conditioned tasks. I also like to work with meta learning and multi task learning.<p>
  
 <p> <b>Self Supervised Learning</b> : SSL methods coupled with RL assist agents in learning the important information present in the inputs rather than generating and memorizing the entire input like genrative models. They have demonstrated improved sample complexity over pure RL methods.<p>
  
