@@ -25,4 +25,8 @@ Computer Science Department
   
   
  <h1> Bio </h1>
- <p> </p>
+ <p>I am a recent graduate from the Computer Science Department at Rutgers University. I completed Masters in 2021 Spring with concentration in Machine Learning and Statistics. Prior to that I was memeber of PICT Research Lab during bachelors wokring on Medical Image Analysis.</p>
+ 
+ <h1> Research </h1>
+
+I am
