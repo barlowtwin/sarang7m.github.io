@@ -23,10 +23,15 @@ Computer Science Department
   </tr>
   </table>
   
+<h1> Research </h1>
+
+
+<p> <b>Reinforcement Learning</b> : I like to develop intelligent agents using policy gradients, world models, representation learning with reinforcement learning and goal-conditioned tasks. I also like o work with meta learning and multi task learning.<p>
+ 
+<p> <b>Self Supervised Learning</b> : SSL methods coupled with RL assist agents in learning the important information present in the inputs rather than generating and memorizing the entire input like genrative models. They have demonstrated improved sample complexity over pure RL methods.<p>
+ 
+<p> <b>Deep Learning</b> : </p> I also like to work neural networks, optimiziers and invaraince in deep learning. 
+  
   
  <h1> Bio </h1>
  <p>I am a recent graduate from the Computer Science Department at Rutgers University. I completed Masters in 2021 Spring with concentration in Machine Learning and Statistics. Prior to that I was memeber of PICT Research Lab during bachelors wokring on Medical Image Analysis.</p>
- 
- <h1> Research </h1>
-
-I am
