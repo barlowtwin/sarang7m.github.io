@@ -8,27 +8,28 @@ I try to reproduce results from papers I find interesting.
 
 
 <h1> Reinforcement Learning </h1>
-[Vanilla Policy Gradient] </br>
-[DQN] </br>
-[Double DQN] </br>
-[TRPO] </br>
-[PPO] </br>
-[PlaNet] </br>
-[Dreamer] </br>
+[Vanilla Policy Gradient](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/Vanilla%20Policy%20Gradient) </br>
+[DQN](https://github.com/barlowtwin/DQN)</br>
+[Double DQN](https://github.com/barlowtwin/Double-DQN) </br>
+[TRPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/TRPO) </br>
+[PPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/ppo)</br>
+[PlaNet](https://github.com/barlowtwin/PlaNet) </br>
+[Dreamer-V1](https://github.com/barlowtwin/Dreamer-V1) </br>
 
 
 <h1> Self Supervised Learning </h1>
 
-[Contrastive Supervised Learning] </br>
-[Simclr] </br>
-[Barlow Twins] </br>
+[Supervised Contrastive Learning](https://github.com/barlowtwin/Supervised-Contrastive-Learning) </br>
+[SimCLR](https://github.com/barlowtwin/SimCLR) </br>
+[Barlow Twins](https://github.com/barlowtwin/Barlow-Twins) </br>
 
 
 
 <h1> Neural Networks </h1>
-[MAML] </br>
-[VAE] </br>
-[Beta VAE] </br>
-[DeepLab-V3] </br>
-[U-Net] </br>
+[MAML](https://github.com/barlowtwin/Model-Agnostic-Meta-Learning-MAML) </br>
+[VAE](https://github.com/barlowtwin/Variational-Auto-Encoders) </br>
+[Beta VAE](https://github.com/barlowtwin/beta-VAE) </br>
+[DeepLab-V3](https://github.com/barlowtwin/Comma10k-Segmentation-using-DeepLabV3) </br>
+[U-Net](https://github.com/barlowtwin/UNet) </br>
+[PoseNet](https://github.com/barlowtwin/PoseNet-Implementation-for-Calib-Challenge) </br>
 
