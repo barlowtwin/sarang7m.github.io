@@ -30,7 +30,7 @@ Computer Science Department
  
 <p> <b>Self Supervised Learning</b> : SSL methods coupled with RL assist agents in learning the important information present in the inputs rather than generating and memorizing the entire input like genrative models. They have demonstrated improved sample complexity over pure RL methods.<p>
  
-<p> <b>Deep Learning</b> : </p> I also like to work neural networks, optimiziers and invaraince in deep learning. 
+<p> <b>Deep Learning</b> : I also like to work neural networks, optimiziers and invaraince in deep learning. </p>
   
   
  <h1> Bio </h1>
