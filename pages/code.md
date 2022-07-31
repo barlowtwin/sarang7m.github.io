@@ -7,15 +7,15 @@ permalink: /code/
 I try to reproduce results from papers I find interesting. 
 
 
-**Reinforcement Learning** <br>
+**Reinforcement Learning** 
 
-[Vanilla Policy Gradient](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/Vanilla%20Policy%20Gradient) </br>
-[DQN](https://github.com/barlowtwin/DQN)</br>
-[Double DQN](https://github.com/barlowtwin/Double-DQN) </br>
-[TRPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/TRPO) </br>
-[PPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/ppo)</br>
-[PlaNet](https://github.com/barlowtwin/PlaNet) </br>
-[Dreamer-V1](https://github.com/barlowtwin/Dreamer-V1) </br>
+[Vanilla Policy Gradient](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/Vanilla%20Policy%20Gradient) 
+[DQN](https://github.com/barlowtwin/DQN)
+[Double DQN](https://github.com/barlowtwin/Double-DQN)
+[TRPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/TRPO) 
+[PPO](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/ppo)
+[PlaNet](https://github.com/barlowtwin/PlaNet) 
+[Dreamer-V1](https://github.com/barlowtwin/Dreamer-V1) 
 
 
 **Self Supervised Learning** <br>
