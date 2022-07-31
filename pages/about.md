@@ -24,7 +24,8 @@ Computer Science Department
   </table>
   
 <h1> Research </h1>
-
+ <br>
+  <br>
 
 <p> <b>Reinforcement Learning</b> : I like to develop intelligent agents using policy gradients, world models, representation learning with reinforcement learning and goal-conditioned tasks. I also like to work with meta learning and multi task learning.<p>
  
@@ -32,6 +33,10 @@ Computer Science Department
  
 <p> <b>Deep Learning</b> : I also like to work neural networks, optimiziers and invaraince in deep learning. </p>
   
+   <br>
+    <br>
   
  <h1> Bio </h1>
+  <br>
+   <br>
  <p>I am a recent graduate from the Computer Science Department at Rutgers University. I completed Masters in 2021 Spring with concentration in Machine Learning and Statistics. Prior to that I was memeber of PICT Research Lab during bachelors wokring on Medical Image Analysis.</p>
