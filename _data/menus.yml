@@ -1,5 +1,5 @@
-- default: menu_index
-  url:   ""
+- default: code
+  url:   "code"
 
 - title: blog
   url:   "blog"
