@@ -1,8 +1,8 @@
 - default: menu_index
   url:   ""
 
-- default: code
-  url:   "code"
+- default: menu_category
+  url:   "category"
 
 - title: "publications"
   url: "publications"
