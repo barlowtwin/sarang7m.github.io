@@ -1,5 +1,5 @@
 ---
 layout: page
-title: publications
+title: 
 permalink: /publications/
 ---
