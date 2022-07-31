@@ -8,6 +8,7 @@ I try to reproduce results from papers I find interesting.
 
 
 **Reinforcement Learning** <br>
+
 [Vanilla Policy Gradient](https://github.com/barlowtwin/Policy-Gradients/tree/main/Policy%20Gradient%20Algorithms/Vanilla%20Policy%20Gradient) </br>
 [DQN](https://github.com/barlowtwin/DQN)</br>
 [Double DQN](https://github.com/barlowtwin/Double-DQN) </br>
@@ -26,6 +27,7 @@ I try to reproduce results from papers I find interesting.
 
 
 **Neural Networks** <br>
+
 [MAML](https://github.com/barlowtwin/Model-Agnostic-Meta-Learning-MAML) </br>
 [VAE](https://github.com/barlowtwin/Variational-Auto-Encoders) </br>
 [Beta VAE](https://github.com/barlowtwin/beta-VAE) </br>
