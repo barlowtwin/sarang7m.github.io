@@ -4,8 +4,8 @@
 - default: menu_category
   url:   "category"
 
-- title: "Projects"
-  url: "projects"
+- title: "publications"
+  url: "publications"
 
 - default: menu_about
   url:   "about"
