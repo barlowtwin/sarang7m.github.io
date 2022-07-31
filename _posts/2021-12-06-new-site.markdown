@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "New Website!!!"
-date:   
-last_modified_at: 
-categories: 
-tags:
+date:   2021-12-06
+last_modified_at: 2021-12-06
+categories: [blog]
+tags: [Getting Start]
 ---
 
 
