@@ -5,6 +5,7 @@ permalink: /code/
 ---
 
 I try to reproduce results from papers I find interesting. 
+<br>
 
 
 **Reinforcement Learning** 
@@ -18,7 +19,7 @@ I try to reproduce results from papers I find interesting.
 [PlaNet](https://github.com/barlowtwin/PlaNet) <br>
 [Dreamer-V1](https://github.com/barlowtwin/Dreamer-V1) <br>
 
-
+<br>
 **Self Supervised Learning** 
 <br>
 
@@ -27,7 +28,7 @@ I try to reproduce results from papers I find interesting.
 [Barlow Twins](https://github.com/barlowtwin/Barlow-Twins) <br>
 
 
-
+<br>
 **Neural Networks** 
 <br>
 
