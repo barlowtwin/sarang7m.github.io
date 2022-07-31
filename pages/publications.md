@@ -4,7 +4,7 @@ title:
 permalink: /publications/
 ---
 
-- **Towards Designing an Automated Classification of Lymphoma subtypes using Deep Neural Networks.** 
+- **Towards Designing an Automated Classification of Lymphoma subtypes using Deep Neural Networks, I2CT, 2019.** 
 Tambe, R., Mahajan, S., Shah, U., Agrawal, M., & Garware, B., I2CT, 2019.
 
 
