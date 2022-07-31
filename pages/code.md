@@ -19,7 +19,8 @@ I try to reproduce results from papers I find interesting.
 [Dreamer-V1](https://github.com/barlowtwin/Dreamer-V1) <br>
 
 
-**Self Supervised Learning** <br>
+**Self Supervised Learning** 
+<br>
 
 [Supervised Contrastive Learning](https://github.com/barlowtwin/Supervised-Contrastive-Learning) <br>
 [SimCLR](https://github.com/barlowtwin/SimCLR) <br>
@@ -27,7 +28,8 @@ I try to reproduce results from papers I find interesting.
 
 
 
-**Neural Networks** <br>
+**Neural Networks** 
+<br>
 
 [MAML](https://github.com/barlowtwin/Model-Agnostic-Meta-Learning-MAML) <br>
 [VAE](https://github.com/barlowtwin/Variational-Auto-Encoders) <br>
