@@ -24,5 +24,5 @@ Computer Science Department
   </table>
   
   
- <h> Bio </h>
+ <h1> Bio </h1>
  <p> </p>
