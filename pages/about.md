@@ -44,7 +44,7 @@ Computer Science Department
    <br>
    
 <h1> Achievements </h1>
-
+<br>
 
 <ul>
   <li>First placed team in Kaggle's Pneumonia Detection Challenge, 2019</li>
