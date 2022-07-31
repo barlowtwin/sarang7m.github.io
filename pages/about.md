@@ -49,6 +49,6 @@ Computer Science Department
 <ul>
   <li>First placed team in Kaggle's Pneumonia Detection Challenge, 2019</li>
   <li>Best Project Award in Open Source and ML domain at Impetus and Concetps (INC), 2019</li>
-  <li>SOTA in Lymphoma Cancer Detection, 2019</li>
+  <li>SOTA in Lymphoma Cancer Detection, ACM CoDS Comad, 2019</li>
   <li>Student grant for ACM Compute 2018</li>
 </ul> 
