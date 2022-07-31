@@ -7,7 +7,7 @@ permalink: /code/
 I try to reproduce results from papers I find interesting. 
 
 
-<h1> Reinforcement Learning
+<h1> Reinforcement Learning </h1>
 -Vanilla Policy Gradient </br>
 -DQN </br>
 -Double DQn
