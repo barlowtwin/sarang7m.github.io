@@ -6,7 +6,7 @@ permalink: /code/
 
 I try to reproduce results from papers I find interesting. 
 
-<h1> Reinforcement Learning </h2>
+
 
 -Vanilla Policy Gradient
 -DQN
@@ -17,14 +17,14 @@ I try to reproduce results from papers I find interesting.
 -Dreamer
 
 
-<h1> Self Supervised Learning </h2>
+
 
 -Contrastive Supervised Learning
 -Simclr
 -Barlow Twins
 
 
-<h1> Deep Learning </h1>
+
 
 -MAML
 -VAE
